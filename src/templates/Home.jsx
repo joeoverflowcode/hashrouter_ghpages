@@ -15,7 +15,7 @@ export default function Home() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Hello World
+          Hello World!!
         </a>
       </header>
     </div>
